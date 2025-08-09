@@ -1,0 +1,44 @@
+=== Audio Analysis Report ===
+
+Overall Score: 79.2/100
+
+Transcribed Text:
+ The stale smell of old beer lingers. It takes heat to bring out the odor. A cold dip restores health in zest. A salt pickle tastes fine with ham. Tuckles all pastora are my favorite. A zestful food is the hot cross bun.
+
+=== Detailed Analysis ===
+
+Fluency Analysis:
+Score: 70/100
+- Excellent speaking pace - natural and engaging
+- Frequent pauses indicate nervousness or lack of preparation
+WPM: 140.6
+Pause Frequency: 16.3 per minute
+
+Grammar Analysis:
+Score: 94/100
+- Good grammar with minor errors
+- Sentences are too short - consider combining ideas
+- Most common error: MORFOLOGIK_RULE_EN_US
+Errors: 2
+
+Professionalism Analysis:
+Score: 80/100
+- Excellent professional language - no filler words
+- Confident and assertive communication style
+- Excellent vocabulary diversity
+Informal Words: 0
+
+Non-Verbal Cues Analysis:
+Score: 60/100
+- High confidence indicators - steady pace and minimal pauses
+- Excessive hesitation - indicates nervousness or unpreparedness
+- Could show more enthusiasm in delivery
+Pause Frequency: 16.3 per minute
+
+Vocabulary Analysis:
+Score: 67/100
+- Exceptional vocabulary diversity
+- Could benefit from more sophisticated vocabulary
+- Good word variety - no excessive repetition
+Vocabulary Richness: 0.91
+Advanced Words: 0
