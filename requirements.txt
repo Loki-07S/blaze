@@ -1,0 +1,17 @@
+# Core dependencies for audio analysis
+openai-whisper>=20231117
+parselmouth>=0.4.3
+numpy>=1.21.0
+language-tool-python>=2.7.1
+pydub>=0.25.1
+torch>=1.9.0
+textblob>=0.17.1
+
+# Additional dependencies for better compatibility
+pytz>=2020.1
+pandas>=1.3.0
+
+# API dependencies
+flask>=2.0.0
+requests>=2.25.0
+werkzeug>=2.0.0
